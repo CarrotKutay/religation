@@ -22,7 +22,23 @@
 | Nikki  | &check;  |   | &check;  |   |   |   |
 |   |   |   |   |   |   |   |
 
-Aktuelle TeilnehmerInnen-Anzahl: 14(+1 potenzielle)
+Aktuelle mögliche TeilnehmerInnen-Anzahl: 14(+1 potenzielle)
+
+### Realistische TeilnehmerInnen-Gruppe
+
+| Nr. | TeilnehmerInnen  | Feedback  | Anfahrt Freitag  | Anfahrt Samstag  |
+|:---:|--- |:---: |:---: | :---: |
+| 1 | Ricci | &check;  | ? | ? |
+| 2 | Steffi | &check; | ? | ? |
+| 3 | Anika | ? | ? | ? |
+| 4 | Ammon | &check; | &check; | - |
+| 5 | Isa | &check; | ? | ? |
+| 6 | Anton | ? | ? | ? |
+| 7 | Dodo | &check; | ? | ? |
+| 8 | Martin | &check; | ? | ? |
+| 9 | Flummi | &check; | ? | ? |
+| 10 | Jack | &check; | ? | ? |
+| 11 | ? | ? | ? | ? |
 
 ## Anreise
 
