@@ -7,7 +7,7 @@
 | Ricci  | &check;  | &check;  |   | &check;  |   | &check;  |
 | Anika  | &check;  | &check;  |   |   |   | &check;  |
 | Steffi  | &check;  | &check;  |   | &check;  |   | &check;  |
-| Marine  | ?  | &check;  |   | &check;  |   | &check;  |
+| Marine  | &cross; | &check;  |   | &check;  |   | &check;  |
 | Carla  | &check;  |   |   |   |   |   |
 | Ammon  | &check;  |   | &check;  |   | &check;  | &check;  |
 | Isa  | &check;  |   | &check;  |   | &check;  | &check;  |
@@ -22,7 +22,7 @@
 | Nikki  | &check;  |   | &check;  |   |   |   |
 |   |   |   |   |   |   |   |
 
-Aktuelle TeilnehmerInnen-Anzahl: 14(+2 potenzielle)
+Aktuelle TeilnehmerInnen-Anzahl: 14(+1 potenzielle)
 
 ## Anreise
 
@@ -42,6 +42,16 @@ Aktuelle TeilnehmerInnen-Anzahl: 14(+2 potenzielle)
 |--- |:---: |:---: |
 | 16  | 29  | 33  |
 | 11  | 32  | 36  |
+
+### Busverbindung
+
+Alle möglichen Verbindungen sind [hier](https://www.dbregiobus-nord.de/) einsehbar
+
+Sonntag:
+Verbindung am So. 07.04.2024
+• von Bahnhof, Flensburg, Abfahrt 08:03 Uhr mit Bus 21
+• nach ZOB, Glücksburg (Ostsee), Ankunft 08:31 Uhr mit Bus 21
+[Verbindung ansehen](https://www.bahn.de/buchung/start?vbid=899c5107-86a7-41b8-a0dd-780893a68de6)
 
 ## Unterkunft
 
