@@ -36,6 +36,13 @@ Aktuelle TeilnehmerInnen-Anzahl: 14(+2 potenzielle)
     - Stornierung möglich (Bis zu 7 Tage vor Reiseantritt)
   - noch preiswertere Möglichkeiten voranden (allerdings verbunden mit Ankuftszeit nach 0.00 Uhr)
 
+### Mögliche Anreisen
+
+| TeilnehmerInnen  | Preis  | Preis + Storno  |
+|--- |:---: |:---: |
+| 16  | 29  | 33  |
+| 11  | 32  | 36  |
+
 ## Unterkunft
 
 - Unterkünfte in Glücksburg selbst sind sehr teuer (bei einem minimal Preis von 60 Euro/Nacht)
